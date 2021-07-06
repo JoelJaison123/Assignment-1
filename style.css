@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+	background-image: url(image.jpeg);
+}
+
+.header{
+  text-align: center;
+  padding-top:410px;
+  color: coral;
+  font-size: 100px;
+  font-family: New Times Roman;
+}

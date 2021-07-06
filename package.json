@@ -1,0 +1,13 @@
+{
+    "name": "template",
+    "version": "1.0.0",
+    "description": "INM420 template",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Joel Jaison",
+    "public": true,
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
